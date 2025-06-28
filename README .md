@@ -2,6 +2,8 @@
 <p align="center">
   <em>Full of curiosity, courage, and creativity — coding one adventure at a time.</em>
 </p>
+📫 Let’s Connect
+<p> <a href="mailto:cindyogutu0@gmail.com"> <img src="https://img.shields.io/badge/Email-cindyogutu0@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://www.linkedin.com/in/cindy-ogutu-2296342b1/"> <img src="https://img.shields.io/badge/LinkedIn-Cindy%20Ogutu-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/> </a> <a href="https://github.com/Bliss109"> <img src="https://img.shields.io/badge/GitHub-Bliss109-black?style=flat-square&logo=github" alt="GitHub Badge"/> </a> </p>
 
 ---
 
@@ -22,8 +24,6 @@
 🖥️ Languages: JavaScript • HTML5 • CSS3 • C  
 🧩 Frameworks: React.js • Node.js (learning)  
 🧰 Tools: Git • VS Code • Figma • Firebase (Auth/Hosting)
-📫 Let’s Connect
-<p> <a href="mailto:cindyogutu0@gmail.com"> <img src="https://img.shields.io/badge/Email-cindyogutu0@gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge"/> </a> <a href="https://www.linkedin.com/in/cindy-ogutu-2296342b1/"> <img src="https://img.shields.io/badge/LinkedIn-Cindy%20Ogutu-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge"/> </a> <a href="https://github.com/Bliss109"> <img src="https://img.shields.io/badge/GitHub-Bliss109-black?style=flat-square&logo=github" alt="GitHub Badge"/> </a> </p>
 
 💥 Fun Fact
 ⚡ My real name is Captain Bliss — and yes, I live up to it. 💃
