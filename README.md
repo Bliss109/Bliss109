@@ -1,130 +1,156 @@
+<!-- ╔══════════════════════════════════════════════════════╗ -->
+<!-- ║         CINDY OGUTU — GitHub Profile README         ║ -->
+<!-- ║         cindy@portfolio:~$ cat README.md            ║ -->
+<!-- ╚══════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0a0f0a,100:0d1a0d&height=200&section=header&text=CINDY%20OGUTU&fontSize=48&fontColor=39FF14&fontAlignY=38&desc=~/engineering-resilient-web-systems%20--from-ui-to-deployment&descAlignY=58&descColor=4ADE80&animation=fadeIn&fontFamily=monospace" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,40:0a0f0a,100:1a0d14&height=160&section=header&text=cindy%40portfolio%3A~%24&fontSize=22&fontColor=39FF14&fontAlignY=35&desc=CINDY%20OGUTU%20%20%2F%2F%20%20Frontend%20Engineer%20%20%2F%2F%20%20DevOps%20Practices&descSize=14&descAlignY=58&descColor=f472b6&animation=fadeIn&fontFamily=monospace" />
 
-<!-- TYPING ANIMATION -->
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ● ● ●          cindy@portfolio — bash — 80×24                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  cindy@portfolio:~$ cat whoami.txt                              │
+│                                                                 │
+│  ██████╗██╗███╗   ██╗██████╗ ██╗   ██╗                         │
+│  ██╔════╝██║████╗  ██║██╔══██╗╚██╗ ██╔╝                        │
+│  ██║     ██║██╔██╗ ██║██║  ██║ ╚████╔╝                         │
+│  ██║     ██║██║╚██╗██║██║  ██║  ╚██╔╝                          │
+│  ╚██████╗██║██║ ╚████║██████╔╝   ██║                           │
+│   ╚═════╝╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝   OGUTU                  │
+│                                                                 │
+│  role      →  Frontend Engineer // DevOps Practices            │
+│  location  →  Nairobi, Kenya                                    │
+│  degree    →  Computer Science (final year)                     │
+│  status    →  [■] open to freelance & full-time                 │
+│                                                                 │
+│  "Beautiful to use. Boring to operate."                         │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=%24+whoami+--+frontend+engineer+%2F+devops;%24+currently+building+%3A%3A+blockchain+credentialing+system;%24+status+%3A%3A+open+to+freelance+%26+full-time;%24+location+%3A%3A+Nairobi%2C+Kenya+%F0%9F%8C%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=39FF14&center=true&vCenter=true&width=580&lines=%24+whoami+--+engineer+who+builds+%26+ships;%24+currently+%3A%3A+blockchain+credentialing+system;%24+learning+%3A%3A+Web3+%2F+Solidity+%2F+smart+contracts;%24+vibe+%3A%3A+beautiful+to+use.+boring+to+operate." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
-![Profile Views](https://komarev.com/ghpvc/?username=Bliss109&color=39FF14&style=flat-square&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=Bliss109&color=39FF14&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Bliss109?color=39FF14&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/Bliss109)
+[![](https://img.shields.io/github/followers/Bliss109?color=f472b6&style=flat-square&logo=github&label=FOLLOWERS)](https://github.com/Bliss109)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=flat-square&logo=checkmarx&logoColor=black)
+![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=flat-square&logoColor=black)
 
 </div>
 
 ---
 
-```bash
-┌─[cindy@portfolio]─[~]
-└──╼ $ cat about.txt
-```
+## `~/stack.json`
 
-> 🌿 **Final-year CS student** bridging the gap between exceptional user experiences  
-> and robust, highly available infrastructure. Powered by curiosity, clean code,  
-> and a touch of creative philosophy.  
->
-> *Beautiful to use. Boring to operate.* ✨
-
-```bash
-┌─[cindy@portfolio]─[~]
-└──╼ $ ls -la skills/
-```
-
----
-
-## `~/stack` — Technical Ecosystem
-
-### 💚 Core
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🌸 Infrastructure & Tooling
-
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
----
-
-## `~/missions` — What I'm Working On
-
-```bash
-┌─[cindy@portfolio]─[~/missions]
-└──╼ $ cat current.log
-```
-
-```
-[🔭 ACTIVE]   Blockchain-based academic credentialing system
-              └── Eliminating verification fraud w/ smart contracts
-
-[🌱 LEARNING] Web3 deep-dive :: blockchain architectures
-              └── Smart contract deployment + consensus mechanisms  
-
-[⚡ GOAL]     Own the full journey — idea → UI → deployment
-              └── "Beautiful to use. Boring to operate."
-```
-
----
-
-## `~/stats` — GitHub Activity
-
-```bash
-┌─[cindy@portfolio]─[~/stats]
-└──╼ $ git log --all --pretty=tformat:"%h %s" | head -20
+```json
+{
+  "core":     ["React", "TypeScript", "Tailwind CSS", "Node.js"],
+  "infra":    ["Docker", "AWS", "GitHub Actions", "MongoDB"],
+  "frontier": ["Solidity", "Web3.js", "Smart Contracts", "Blockchain"],
+  "always":   ["Git", "Linux", "REST APIs", "Figma", "VS Code"]
+}
 ```
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bliss109&show_icons=true&hide_border=true&bg_color=0a0f0a&title_color=39FF14&icon_color=4ADE80&text_color=94a3b8&ring_color=39FF14&border_radius=8" />
+**core**&nbsp;
+![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwind-css&logoColor=39FF14)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=39FF14)
+
+**infra**&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=f472b6)
+![AWS](https://img.shields.io/badge/AWS-0a0a0a?style=flat-square&logo=amazon-aws&logoColor=f472b6)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=flat-square&logo=github-actions&logoColor=f472b6)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=f472b6)
+
+**frontier**&nbsp;
+![Solidity](https://img.shields.io/badge/Solidity-0a0a0a?style=flat-square&logo=solidity&logoColor=f472b6)
+![Web3](https://img.shields.io/badge/Web3.js-0a0a0a?style=flat-square&logo=web3.js&logoColor=f472b6)
+
+</div>
+
+---
+
+## `~/missions.log`
+
+```bash
+cindy@portfolio:~$ tail -f missions.log
+```
+
+```
+[■ ACTIVE    ] Building a decentralized blockchain-based academic credentialing
+               system — eliminating verification fraud via smart contracts
+               and immutable on-chain records.
+
+[▶ LEARNING  ] Deepening practical Web3 implementation — blockchain
+               architectures, smart contract deployment, and decentralized
+               consensus mechanisms.
+
+[∞ ALWAYS ON ] Software should be enjoyed, not just tolerated.
+               Every layer of the stack deserves craftsmanship —
+               from pixel to pipeline.
+```
+
+---
+
+## `~/git-stats`
+
+```bash
+cindy@portfolio:~$ git log --stat --oneline | wc -l
+```
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bliss109&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39FF14&icon_color=f472b6&text_color=6b7280&ring_color=39FF14&border_radius=6" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bliss109&layout=compact&hide_border=true&bg_color=0a0f0a&title_color=39FF14&text_color=94a3b8&border_radius=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bliss109&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39FF14&text_color=6b7280&border_radius=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bliss109&background=0a0f0a&ring=39FF14&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=94a3b8&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&hide_border=true&border_radius=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bliss109&background=0a0a0a&ring=39FF14&fire=f472b6&currStreakLabel=f472b6&sideLabels=6b7280&currStreakNum=ffffff&sideNums=9ca3af&dates=444&hide_border=true&border_radius=6" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bliss109&bg_color=0a0f0a&color=4ADE80&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true&border_radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bliss109&bg_color=0a0a0a&color=f472b6&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true&border_radius=6" />
 
 </div>
 
 ---
 
-## `~/connect` — Let's Talk
+## `~/connect.sh`
 
 ```bash
-┌─[cindy@portfolio]─[~]
-└──╼ $ ping cindy --all-channels
+cindy@portfolio:~$ ./connect.sh --all
+```
+
+```
+[✦] email     →  cindy.ogutu@gmail.com
+[✦] linkedin  →  linkedin.com/in/cindyogutu
+[✦] github    →  github.com/Bliss109
+[✦] timezone  →  EAT (UTC+3)
+[✦] response  →  within 24hrs
 ```
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/cindy.ogutu@gmail.com-0a0f0a?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0a0f0a)](mailto:cindy.ogutu@gmail.com)
+[![Email](https://img.shields.io/badge/cindy.ogutu@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:cindy.ogutu@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/cindyogutu-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0a0f0a)](https://linkedin.com/in/cindyogutu)
+[![LinkedIn](https://img.shields.io/badge/cindyogutu-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=f472b6)](https://linkedin.com/in/cindyogutu)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/Bliss109-0a0f0a?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0a0f0a)](https://github.com/Bliss109)
-
-<br/>
-
-```
-> LOCATION  ::  Nairobi, Kenya 🌿
-> STATUS    ::  Open to freelance & full-time opportunities ✨
-> RESPONSE  ::  Usually within 24hrs 💚
-```
+[![GitHub](https://img.shields.io/badge/Bliss109-0a0a0a?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Bliss109)
 
 </div>
 
@@ -132,8 +158,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1a0d,50:0a0f0a,100:030712&height=100&section=footer&fontColor=39FF14&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0d14,50:0a0f0a,100:030712&height=100&section=footer&animation=fadeIn" />
 
-*`$ echo "she builds. she ships. she slays." 🌱`*
+```
+[ branch: main ]  [ lang: TypeScript ]  [ status: open to work ]  [ EAT UTC+3 ]
+```
+
+*`$ echo "she builds. she ships. she slays." ✦`*
 
 </div>
